@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 1.5
+  category: 1
+  name: MyString
+  volume: 1.5
+  volume_type: MyString
+  description: MyString
+
+two:
+  price: 1.5
+  category: 1
+  name: MyString
+  volume: 1.5
+  volume_type: MyString
+  description: MyString
